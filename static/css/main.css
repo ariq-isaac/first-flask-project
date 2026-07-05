@@ -1,0 +1,19 @@
+.nav-lists {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    gap: 20px;
+}
+
+.nav-lists a {
+    text-decoration: none;
+    color: #333;
+    font-family: sans-serif;
+    padding: 8px 12px;
+}
+
+.nav-lists a:hover {
+    color: #007BFF;
+}
